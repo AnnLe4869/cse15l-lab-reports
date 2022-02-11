@@ -8,6 +8,6 @@ Location of the private key on the remote machine
 
 ![Screenshot of location where private key is stored in remote machine](remote_key_location.png)
 
-Running command and push change to GitHub in remote machne
+Running command and push change to GitHub in remote machine
 
-![Video on the process](recording.mp4)
+![Video on the process](recording.gif)
